@@ -1,0 +1,2 @@
+# NSOC
+NSOC stands for NIE SUMMER OF CODE! 2017
